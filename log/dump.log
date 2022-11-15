@@ -1,0 +1,55 @@
+2022-11-15 09:47:03.951 INFO data_preparation - run: Encontramos 999 arquivos para coletar
+2022-11-15 09:56:50.455 INFO data_preparation - run: Encontramos 999 arquivos para coletar
+2022-11-15 09:56:50.944 INFO data_transform - update: O arquivo corona_01_01_2021.csv foi tratado com sucesso
+2022-11-15 09:56:51.492 INFO data_transform - update: O arquivo corona_01_01_2022.csv foi tratado com sucesso
+2022-11-15 09:56:52.508 INFO data_transform - update: O arquivo corona_01_02_2021.csv foi tratado com sucesso
+2022-11-15 09:56:56.388 INFO data_transform - update: O arquivo corona_01_02_2022.csv foi tratado com sucesso
+2022-11-15 09:56:57.303 INFO data_transform - update: O arquivo corona_01_03_2021.csv foi tratado com sucesso
+2022-11-15 09:57:59.709 INFO data_preparation - run: Encontramos 999 arquivos para coletar
+2022-11-15 09:57:59.993 INFO data_transform - update: O arquivo corona_01_01_2021.csv foi tratado com sucesso
+2022-11-15 09:58:00.346 INFO data_transform - update: O arquivo corona_01_01_2022.csv foi tratado com sucesso
+2022-11-15 09:58:00.602 INFO data_transform - update: O arquivo corona_01_02_2021.csv foi tratado com sucesso
+2022-11-15 09:58:00.873 INFO data_transform - update: O arquivo corona_01_02_2022.csv foi tratado com sucesso
+2022-11-15 09:58:01.145 INFO data_transform - update: O arquivo corona_01_03_2021.csv foi tratado com sucesso
+2022-11-15 10:05:18.359 INFO data_preparation - run: Encontramos 999 arquivos para coletar
+2022-11-15 10:05:18.854 INFO data_transform - update: O arquivo corona_01_01_2021.csv foi tratado com sucesso
+2022-11-15 10:05:19.428 INFO data_transform - update: O arquivo corona_01_01_2022.csv foi tratado com sucesso
+2022-11-15 10:05:19.954 INFO data_transform - update: O arquivo corona_01_02_2021.csv foi tratado com sucesso
+2022-11-15 10:05:20.458 INFO data_transform - update: O arquivo corona_01_02_2022.csv foi tratado com sucesso
+2022-11-15 10:05:20.929 INFO data_transform - update: O arquivo corona_01_03_2021.csv foi tratado com sucesso
+2022-11-15 10:06:37.936 INFO data_preparation - run: Encontramos 999 arquivos para coletar
+2022-11-15 10:06:38.233 INFO data_transform - update: O arquivo corona_01_01_2021.csv foi tratado com sucesso
+2022-11-15 10:06:38.568 INFO data_transform - update: O arquivo corona_01_01_2022.csv foi tratado com sucesso
+2022-11-15 10:06:38.962 INFO data_transform - update: O arquivo corona_01_02_2021.csv foi tratado com sucesso
+2022-11-15 10:06:39.238 INFO data_transform - update: O arquivo corona_01_02_2022.csv foi tratado com sucesso
+2022-11-15 10:06:39.552 INFO data_transform - update: O arquivo corona_01_03_2021.csv foi tratado com sucesso
+2022-11-15 10:07:51.799 INFO data_preparation - run: Encontramos 999 arquivos para coletar
+2022-11-15 10:07:52.119 INFO data_transform - update: O arquivo corona_01_01_2021.csv foi tratado com sucesso
+2022-11-15 10:07:52.443 INFO data_transform - update: O arquivo corona_01_01_2022.csv foi tratado com sucesso
+2022-11-15 10:07:52.721 INFO data_transform - update: O arquivo corona_01_02_2021.csv foi tratado com sucesso
+2022-11-15 10:07:53.011 INFO data_transform - update: O arquivo corona_01_02_2022.csv foi tratado com sucesso
+2022-11-15 10:07:53.290 INFO data_transform - update: O arquivo corona_01_03_2021.csv foi tratado com sucesso
+2022-11-15 10:07:53.693 INFO data_storage - update: corona_01_01_2021 criada com sucesso no banco de dados
+2022-11-15 10:07:54.073 INFO data_storage - update: corona_01_01_2022 criada com sucesso no banco de dados
+2022-11-15 10:07:54.439 INFO data_storage - update: corona_01_02_2021 criada com sucesso no banco de dados
+2022-11-15 10:07:54.804 INFO data_storage - update: corona_01_02_2022 criada com sucesso no banco de dados
+2022-11-15 10:07:55.187 INFO data_storage - update: corona_01_03_2021 criada com sucesso no banco de dados
+2022-11-15 10:50:43.112 INFO data_preparation - run: Encontramos 999 arquivos para coletar
+2022-11-15 10:51:02.871 INFO data_preparation - run: Encontramos 999 arquivos para coletar
+2022-11-15 10:51:03.413 INFO data_transform - update: O arquivo corona_01_01_2021.csv foi tratado com sucesso
+2022-11-15 10:51:03.950 INFO data_transform - update: O arquivo corona_01_01_2022.csv foi tratado com sucesso
+2022-11-15 10:51:04.440 INFO data_transform - update: O arquivo corona_01_02_2021.csv foi tratado com sucesso
+2022-11-15 10:51:04.986 INFO data_transform - update: O arquivo corona_01_02_2022.csv foi tratado com sucesso
+2022-11-15 10:51:05.472 INFO data_transform - update: O arquivo corona_01_03_2021.csv foi tratado com sucesso
+2022-11-15 10:52:00.164 INFO data_preparation - run: Encontramos 999 arquivos para coletar
+2022-11-15 10:52:01.171 INFO data_transform - update: O arquivo corona_01_03_2022.csv foi tratado com sucesso
+2022-11-15 10:52:01.932 INFO data_transform - update: O arquivo corona_01_04_2021.csv foi tratado com sucesso
+2022-11-15 10:52:02.543 INFO data_transform - update: O arquivo corona_01_04_2022.csv foi tratado com sucesso
+2022-11-15 10:52:03.315 INFO data_transform - update: O arquivo corona_01_05_2021.csv foi tratado com sucesso
+2022-11-15 10:52:04.348 INFO data_transform - update: O arquivo corona_01_05_2022.csv foi tratado com sucesso
+2022-11-15 10:53:16.966 INFO data_preparation - run: Encontramos 999 arquivos para coletar
+2022-11-15 10:53:17.733 INFO data_transform - update: O arquivo corona_01_06_2021.csv foi tratado com sucesso
+2022-11-15 10:53:18.266 INFO data_transform - update: O arquivo corona_01_06_2022.csv foi tratado com sucesso
+2022-11-15 10:53:18.734 INFO data_transform - update: O arquivo corona_01_07_2021.csv foi tratado com sucesso
+2022-11-15 10:53:19.217 INFO data_transform - update: O arquivo corona_01_07_2022.csv foi tratado com sucesso
+2022-11-15 10:53:19.864 INFO data_transform - update: O arquivo corona_01_08_2021.csv foi tratado com sucesso
